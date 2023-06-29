@@ -1,5 +1,9 @@
 # emergencias-medicas
 
+<p align="center">
+    <img width="600px" height="337px" src="src/assets/emergenciasMedicas.gif" />
+</p>
+
 ## Project setup
 ```
 npm install
